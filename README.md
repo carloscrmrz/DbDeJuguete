@@ -5,7 +5,7 @@ Programa para la practica 01 de Fundamentos de Bases de Datos en la Facultad de 
 ## Instrucciones de uso
 
 La aplicación ya viene precargada con una base de datos de Productos, asi como una base de datos de Ventas, dentro del mismo programa se pueden crear mas bases de datos.
-La aplicación está construida en .NET 7, y por ende es multiplataforma, para correr la aplicación solo es necesario descargar el archivo EXE que se encuentra en Releases o si se gusta, usar el .NET SDK para construir la aplicación.
+La aplicación está construida en .NET 7, y por ende es multiplataforma, para correr la aplicación solo es necesario descargar el directorio dist dentro del repositorio y ejecutar el archivo `DbDeJuguete.exe` o si se gusta, usar el .NET SDK para construir la aplicación.
 
 Ya teniendo el SDK (>= .NET 7) descargado solo tenemos que correr un par de comandos:
 
